@@ -3,7 +3,7 @@
 # to Qwen3.5-35B-A3B (per Qwen team), so the 3.5 mods apply unchanged.
 
 recipe_version: "1"
-name: Qwen36-35B-A3B-BF16
+name: Qwen3.6-35B-A3B-BF16
 description: vLLM serving Qwen3.6-35B-A3B in native BF16
 
 # HuggingFace model to download (optional, for --download-model)

@@ -4,7 +4,7 @@
 # so the 3.5 mods apply unchanged.
 
 recipe_version: "1"
-name: Qwen36-35B-A3B-FP8
+name: Qwen3.6-35B-A3B-FP8
 description: vLLM serving Qwen3.6-35B-A3B-FP8
 
 # HuggingFace model to download (optional, for --download-model)
