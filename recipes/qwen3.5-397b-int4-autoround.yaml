@@ -30,7 +30,7 @@ defaults:
   port: 8000
   host: 0.0.0.0
   tensor_parallel: 2
-  gpu_memory_utilization: 112
+  gpu_memory_utilization: 109
   max_model_len: 262144
   max_num_batched_tokens: 4176
 
